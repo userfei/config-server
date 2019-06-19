@@ -10,7 +10,3 @@ spring:
     show-sql: true
 env: dev
 label: dev
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
