@@ -8,7 +8,8 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     show-sql: true
-env: dev
+env: test
+label: debug
 eureka:
   client:
     service-url:
