@@ -13,7 +13,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     show-sql: true
-env: dev
+env: test
 label: dev
 girl:
   name: limei
