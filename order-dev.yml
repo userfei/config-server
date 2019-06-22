@@ -16,4 +16,4 @@ spring:
 env: dev
 label: dev
 girl:
-  name: lili
+  name: limei
