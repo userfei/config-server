@@ -16,4 +16,4 @@ spring:
 env: test1
 label: dev
 girl:
-  name: lili
+  name: liming
