@@ -11,6 +11,9 @@ spring:
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
+  redis:
+    host: 192.168.137.3
+    port: 6379
   jpa:
     show-sql: true
 env: test
