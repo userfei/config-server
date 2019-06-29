@@ -4,7 +4,7 @@ zuul:
       path: /myProduct/**
       serviceId: product
   ignored-patterns:
-    - /myProduct2/product/listForOrder
+    - /myProduct3/product/listForOrder
     - /product/product/listForOrder
   sensitive-headers:
 management:
