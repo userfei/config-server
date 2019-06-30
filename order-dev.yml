@@ -2,7 +2,7 @@ spring:
   application:
     name: order
   rabbitmq:
-    host: 192.168.1.102
+    host: 192.168.1.103
     port: 5672
     username: guest
     password: guest
@@ -12,7 +12,7 @@ spring:
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
   redis:
-    host: 192.168.1.102
+    host: 192.168.1.103
     port: 6379
   jpa:
     show-sql: true
